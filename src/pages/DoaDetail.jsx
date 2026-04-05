@@ -4,7 +4,7 @@ import { useParams, Link } from 'react-router-dom'
 // ============================================================ 
 // 🖼️  GANTI URL DI BAWAH INI DENGAN LINK GAMBAR ANDA
 // ============================================================
-const HAND_IMAGE_URL = '../public/pray.png' 
+const HAND_IMAGE_URL = '/pray.png' 
 // ============================================================
 
 const MAX_DOA_ID = 228

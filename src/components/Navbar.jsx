@@ -3,7 +3,7 @@ import { Link, useLocation } from 'react-router-dom'
 
 // ─── Atur logo di sini ───────────────────────────────────────────────
 const USE_CUSTOM_LOGO = true          // ganti true jika pakai gambar
-const LOGO_PATH = '../public/logo.png'   // path gambar logo kamu
+const LOGO_PATH = '/logo.png'   // path gambar logo kamu
 // ─────────────────────────────────────────────────────────────────────
 
 export default function Navbar() {

@@ -11,7 +11,7 @@ const HERO_IMAGE = '/home.png'
 const featureCards = [
   {
     emoji: '📖',
-    image: '../public/logo.png',
+    image: '/ogo.png',
     title: 'Al-Quran',
     desc: '114 Surah lengkap beserta terjemahan Bahasa Indonesia',
     link: '/quran',
@@ -20,7 +20,7 @@ const featureCards = [
   },
   {
     emoji: '🤲',
-    image: '../public/doa.png',
+    image: '/doa.png',
     title: "Do'a Harian",
     desc: "Kumpulan do'a sehari-hari sesuai Sunnah Rasulullah SAW",
     link: '/doa',
@@ -29,7 +29,7 @@ const featureCards = [
   },
   {
     emoji: '🕌',
-    image: '../public/sholat.png',
+    image: '/sholat.png',
     title: 'Jadwal Shalat',
     desc: 'Jadwal waktu shalat akurat berdasarkan lokasi Anda',
     link: '/jadwal-shalat',
@@ -38,7 +38,7 @@ const featureCards = [
   },
   {
     emoji: '📝',
-    image: '../public/tafsir.png',
+    image: '/tafsir.png',
     title: 'Tafsir',
     desc: 'Tafsir Al-Quran lengkap dari para ulama terpercaya',
     link: '/quran',
