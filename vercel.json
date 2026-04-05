@@ -1,13 +1,5 @@
 {
-  "cleanUrls": true,
   "rewrites": [
-    {
-      "source": "/about",
-      "destination": "/about.html"
-    },
-    {
-      "source": "/((?!assets/|.*\\..*).*)",
-      "destination": "/index.html"
-    }
+    { "source": "/(.*)", "destination": "/" }
   ]
 }
