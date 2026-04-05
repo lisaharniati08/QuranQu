@@ -341,7 +341,7 @@ export default function Home() {
                 <div className="w-9 h-9 rounded-xl flex items-center justify-center" style={{ background: 'linear-gradient(135deg, #1a6b4a, #2d9e72)' }}>
                   <span className="text-white font-bold text-sm" style={{ fontFamily: "'Amiri', serif" }}>ق</span>
                 </div>
-                <span className="font-black text-xl text-white">Al-Quran<span className="text-[#2d9e72]">Digital</span></span>
+                <span className="font-black text-xl text-white">Quran<span className="text-[#2d9e72]">Qu</span></span>
               </div>
               <p className="text-white/50 text-sm leading-relaxed mb-5">
                 Platform Al-Quran digital terlengkap untuk umat Muslim Indonesia. Membaca, memahami, dan mengamalkan Al-Quran kapan saja dan di mana saja.
@@ -425,7 +425,7 @@ export default function Home() {
           {/* Bottom bar */}
           <div className="border-t border-white/8 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
             <p className="text-white/30 text-xs text-center sm:text-left">
-              © 2025 Al-Quran Digital.
+              © 2025 QuranQu
             </p>
             <p className="text-white/30 text-xs">
               Data dari{' '}
