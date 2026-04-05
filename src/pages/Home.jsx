@@ -11,7 +11,7 @@ const HERO_IMAGE = '/home.png'
 const featureCards = [
   {
     emoji: '📖',
-    image: '/ogo.png',
+    image: '/logo.png',
     title: 'Al-Quran',
     desc: '114 Surah lengkap beserta terjemahan Bahasa Indonesia',
     link: '/quran',
